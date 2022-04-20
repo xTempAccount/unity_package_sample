@@ -1,7 +1,9 @@
-"name": "com.ihandy.package",
-"version": "1.2.3",
-"displayName": "Package Example",
-"description": "This is an example package",
-"unity": "2018.4"
+{
+    "name": "com.ihandy.package",
+    "version": "1.2.3",
+    "displayName": "Package Example",
+    "description": "This is an example package",
+    "unity": "2018.4"
+}
 
 
