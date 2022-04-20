@@ -2,5 +2,9 @@
 "version": "1.2.3",
 "displayName": "Package Example",
 "description": "This is an example package",
-"unity": "2018.4"
+"unity": "2018.4"，
+"repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:xTempAccount/unity_package_sample.git"
+}
 
